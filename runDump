@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo mkdir /run/dump1090
+sudo ./dump1090/dump1090 --dev-sdrplay --interactive --net --net-beast --net-ro-port 31001 --write-json /run/dump1090
