@@ -8,6 +8,7 @@ I also don't want to use a dedicated PC to do this job, and planned to use my Ra
 <br/>
 So I started by installing on the Raspberry the PiAware software from FlighAware.<br/>
 They provide a Raspberry Pi image that you can download from :<br/>
+<br/>
 <ul>
   <li><a href='https://fr.flightaware.com/adsb/piaware/build'>fr.flightaware.com/adsb/piaware/build</a></li>
 </ul>
@@ -16,6 +17,7 @@ Once installed on your Raspberry, the PiAware software manage the SDR board usin
 <br/>
 Fortunately, the SDRPlay company have adapted this <b>dump1090</b> program for they boards, <br/>
 and you can download the source code from their Github at address : <br/>
+<br/>
 <ul>
  <li><a href='https://github.com/SDRplay/dump1090'>github.com/SDRplay/dump1090</a></li>
 </ul>
