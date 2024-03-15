@@ -6,7 +6,7 @@ and report planes positions to <b>FlightAware</b> and <b>FlightRadar24</b> websi
 <br/>
 I also don't want to use a dedicated PC to do this job, and planned to use my Raspberry Pi4 instead.<br/>
 <br/>
-So I started by installing on the Raspberry the PiAware software from FlighAware.<br/>
+So I started by installing on the Raspberry the <b>PiAware</b> software from FlighAware.<br/>
 They provide a Raspberry Pi image that you can download from :<br/>
 <br/>
 <ul>
