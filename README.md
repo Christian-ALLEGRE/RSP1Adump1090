@@ -1,5 +1,5 @@
 # RSP1Adump1090
-ADS-B receiver dump1090 progam for SDRPLay RSP1A SDR boards<br/>
+ADS-B receiver <b>dump1090</b> progam for SDRPLay RSP1A SDR boards<br/>
 <br/>
 I own a SDRPlay RSP1A SDR board, and I wanted to use it to receive ADS-B planes signals <br/>
 and report planes positions to <b>FlightAware</b> and </b>FlightRadar24</b> websites.<br/>
