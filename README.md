@@ -2,7 +2,7 @@
 ADS-B receiver <b>dump1090</b> progam for SDRPLay RSP1A SDR boards<br/>
 <br/>
 I own a SDRPlay RSP1A SDR board, and I wanted to use it to receive ADS-B planes signals <br/>
-and report planes positions to <b>FlightAware</b> and </b>FlightRadar24</b> websites.<br/>
+and report planes positions to <b>FlightAware</b> and <b>FlightRadar24</b> websites.<br/>
 <br/>
 I also don't want to use a dedicated PC to do this job, and planned to use my Raspberry Pi4 instead.<br/>
 <br/>
